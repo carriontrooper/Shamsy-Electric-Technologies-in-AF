@@ -29,12 +29,12 @@
 		],
 		"shortcutKey": "T",
 		"civilopediaText": [
-			/*
+
 			{
 				"extraImage": "TileSets/FantasyHex/Tiles/Solar Farm",
 				"imageSize": 64
 			},
-			*/
+
 			{
 				"Separator": true
 			},
