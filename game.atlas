@@ -20,6 +20,13 @@ NationIcons/Shamsy Electric Technologies
   index: -1
 TileSets/FantasyHex/Tiles/Solar Farm
   rotate: false
+  xy: 476, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Mnewer Attack Mecha
+  rotate: false
   xy: 436, 76
   size: 32, 28
   orig: 32, 28
