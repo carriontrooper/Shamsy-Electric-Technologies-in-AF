@@ -9,7 +9,7 @@
 		"strength": 50,
 		"cost": 450,
 		"requiredTech": "Combat Mechas",
-		"requiredResource": "Titanium",
+		//"requiredResource": "Titanium",
 		//"upgradesTo": "Anti-Air Buggy",
 		//"obsoleteTech": "Chivalry",
 		"uniques": [
@@ -18,7 +18,7 @@
 			"No defensive terrain bonus",
 			"[+50]% Strength <vs [Armored] units>",
 			"[+10]% Strength <when attacking> <with [20]% chance>",
-			"Double movement in [Desert]"
+			"Double movement in [Desert]",
 			"Only available <in cities with a [Mechanized Unit Facility]>",
 			"Consumes [2] [Titanium]",
 			"Never appears as a Barbarian unit"
