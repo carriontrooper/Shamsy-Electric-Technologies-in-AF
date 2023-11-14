@@ -27,10 +27,12 @@
 		"hurryCostModifier": 20,
 		"attackSound": "RapidLaser2",
 		"civilopediaText": [
+			/*
 			{
 				"extraImage": "TileSets/FantasyHex/Units/Mnewer Attack Mecha",
 				"imageSize": 64
 			},
+			*/
 			{
 				"Separator": true
 			},
